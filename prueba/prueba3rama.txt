@@ -1,0 +1,1 @@
+Creando un archivo en la rama 2 que no se va a emerger a la rama principal (main)
